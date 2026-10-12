@@ -1,0 +1,1432 @@
+[
+  {
+    "_id": "cccccccccccccccccccccccc",
+    "providerId": "222222222222222222222222",
+    "providerKind": "SCHOOL",
+    "createdByTeacherId": "cccccccccccccccccccccccc",
+    "board": "SEBA",
+    "subject": "Science",
+    "grade": "Class 8",
+    "chapterName": "Chapter 1 \u2014 Motion",
+    "topic": "Motion",
+    "definition": "Motion is a core concept in Science \u2014 Kinematics \u2014 distance, displacement, speed, velocity and acceleration.",
+    "objectives": [
+      {
+        "text": "Students will be able to define key terms related to motion.",
+        "bloomLevel": "Remember"
+      },
+      {
+        "text": "Students will be able to explain the underlying principles of motion.",
+        "bloomLevel": "Understand"
+      },
+      {
+        "text": "Students will be able to apply motion concepts to solve numerical problems.",
+        "bloomLevel": "Apply"
+      }
+    ],
+    "advantages": [
+      "Builds a strong conceptual foundation for later Science chapters.",
+      "Connects theory to everyday observable examples."
+    ],
+    "disadvantages": [
+      "Can feel abstract without hands-on demonstration."
+    ],
+    "realWorldApplications": [
+      "Used in engineering and design contexts related to motion.",
+      "Appears in common technology and everyday devices."
+    ],
+    "difficultyLevel": "Easy",
+    "estimatedDurationMinutes": 30,
+    "priorKnowledgeRequired": [
+      "Basic arithmetic and unit conversion."
+    ],
+    "commonMisconceptions": [
+      "Students often confuse related terms within motion."
+    ],
+    "suggestedAnalogies": [
+      "Compare motion to a familiar daily-life scenario for easier recall."
+    ],
+    "keyVocabulary": [
+      {
+        "term": "Motion term 1",
+        "definition": "Definition of key term 1 related to motion."
+      },
+      {
+        "term": "Motion term 2",
+        "definition": "Definition of key term 2 related to motion."
+      },
+      {
+        "term": "Motion term 3",
+        "definition": "Definition of key term 3 related to motion."
+      }
+    ],
+    "timeBlockPlan": [
+      {
+        "duration": 7,
+        "activity": "Warm-up question to activate prior knowledge",
+        "type": "hook"
+      },
+      {
+        "duration": 11,
+        "activity": "Direct instruction on motion",
+        "type": "concept"
+      },
+      {
+        "duration": 11,
+        "activity": "Guided practice / group activity",
+        "type": "activity"
+      },
+      {
+        "duration": 6,
+        "activity": "Quick formative check",
+        "type": "assessment"
+      },
+      {
+        "duration": 2,
+        "activity": "Recap and preview of next class",
+        "type": "wrap_up"
+      }
+    ],
+    "teachingStrategies": [
+      "Think-Pair-Share",
+      "Collaborative",
+      "Flipped Classroom"
+    ],
+    "differentiationNotes": {
+      "slowLearners": "Provide a simplified worksheet with worked examples.",
+      "advancedLearners": "Offer an extension problem connecting to a real-world case study."
+    },
+    "boardWorkOutline": [
+      "Title: Motion",
+      "Key formula / definition box",
+      "Labelled diagram"
+    ],
+    "exitTicketQuestions": [
+      "In one sentence, explain motion in your own words."
+    ],
+    "formativeAssessmentPrompts": [
+      "Ask two students to summarise motion to the class."
+    ],
+    "hotsQuestions": [
+      "Why does motion matter outside the classroom?",
+      "How would you test your understanding of motion practically?",
+      "What would change if one variable in motion were altered?"
+    ],
+    "crossSubjectConnections": [
+      "Links to Mathematics through related numerical calculations."
+    ],
+    "previousChapterDependencies": [
+      "Builds on foundational concepts introduced in the previous chapter."
+    ],
+    "nextChapterPreparation": [
+      "Sets up vocabulary and concepts needed for the next chapter."
+    ],
+    "simulation": {
+      "feasible": false
+    },
+    "mcq": {
+      "feasible": true,
+      "seedThemes": [
+        "Motion",
+        "Kinematics \u2014 distance"
+      ],
+      "suggestedCount": 15
+    },
+    "notesGeneratable": true,
+    "handsOnActivity": "Simple classroom demonstration illustrating motion.",
+    "isArchived": false,
+    "generationDurationMs": 10848,
+    "createdAt": "2026-08-01T00:00:00.000Z",
+    "updatedAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
+    "_id": "eeeeeeeeeeeeeeeeeeeeeeee",
+    "providerId": "222222222222222222222222",
+    "providerKind": "SCHOOL",
+    "createdByTeacherId": "cccccccccccccccccccccccc",
+    "board": "NCERT",
+    "subject": "Mathematics",
+    "grade": "Class 9",
+    "chapterName": "Chapter 2 \u2014 Gravitation",
+    "topic": "Gravitation",
+    "definition": "Gravitation is a core concept in Mathematics \u2014 Universal law of gravitation and free fall.",
+    "objectives": [
+      {
+        "text": "Students will be able to define key terms related to gravitation.",
+        "bloomLevel": "Remember"
+      },
+      {
+        "text": "Students will be able to explain the underlying principles of gravitation.",
+        "bloomLevel": "Understand"
+      },
+      {
+        "text": "Students will be able to apply gravitation concepts to solve numerical problems.",
+        "bloomLevel": "Apply"
+      }
+    ],
+    "advantages": [
+      "Builds a strong conceptual foundation for later Mathematics chapters.",
+      "Connects theory to everyday observable examples."
+    ],
+    "disadvantages": [
+      "Can feel abstract without hands-on demonstration."
+    ],
+    "realWorldApplications": [
+      "Used in engineering and design contexts related to gravitation.",
+      "Appears in common technology and everyday devices."
+    ],
+    "difficultyLevel": "Medium",
+    "estimatedDurationMinutes": 60,
+    "priorKnowledgeRequired": [
+      "Basic arithmetic and unit conversion."
+    ],
+    "commonMisconceptions": [
+      "Students often confuse related terms within gravitation."
+    ],
+    "suggestedAnalogies": [
+      "Compare gravitation to a familiar daily-life scenario for easier recall."
+    ],
+    "keyVocabulary": [
+      {
+        "term": "Gravitation term 1",
+        "definition": "Definition of key term 1 related to gravitation."
+      },
+      {
+        "term": "Gravitation term 2",
+        "definition": "Definition of key term 2 related to gravitation."
+      },
+      {
+        "term": "Gravitation term 3",
+        "definition": "Definition of key term 3 related to gravitation."
+      }
+    ],
+    "timeBlockPlan": [
+      {
+        "duration": 5,
+        "activity": "Warm-up question to activate prior knowledge",
+        "type": "hook"
+      },
+      {
+        "duration": 10,
+        "activity": "Direct instruction on gravitation",
+        "type": "concept"
+      },
+      {
+        "duration": 11,
+        "activity": "Guided practice / group activity",
+        "type": "activity"
+      },
+      {
+        "duration": 6,
+        "activity": "Quick formative check",
+        "type": "assessment"
+      },
+      {
+        "duration": 28,
+        "activity": "Recap and preview of next class",
+        "type": "wrap_up"
+      }
+    ],
+    "teachingStrategies": [
+      "Lecture",
+      "Inquiry-Based",
+      "Think-Pair-Share"
+    ],
+    "differentiationNotes": {
+      "slowLearners": "Provide a simplified worksheet with worked examples.",
+      "advancedLearners": "Offer an extension problem connecting to a real-world case study."
+    },
+    "boardWorkOutline": [
+      "Title: Gravitation",
+      "Key formula / definition box",
+      "Labelled diagram"
+    ],
+    "exitTicketQuestions": [
+      "In one sentence, explain gravitation in your own words."
+    ],
+    "formativeAssessmentPrompts": [
+      "Ask two students to summarise gravitation to the class."
+    ],
+    "hotsQuestions": [
+      "Why does gravitation matter outside the classroom?",
+      "How would you test your understanding of gravitation practically?",
+      "What would change if one variable in gravitation were altered?"
+    ],
+    "crossSubjectConnections": [
+      "Links to Mathematics through related numerical calculations."
+    ],
+    "previousChapterDependencies": [
+      "Builds on foundational concepts introduced in the previous chapter."
+    ],
+    "nextChapterPreparation": [
+      "Sets up vocabulary and concepts needed for the next chapter."
+    ],
+    "simulation": {
+      "feasible": true,
+      "exposedVariables": [
+        "variable1",
+        "variable2"
+      ],
+      "expectedOutcome": "Students see the relationship change interactively.",
+      "suggestedTool": "Interactive slider-based simulation"
+    },
+    "mcq": {
+      "feasible": true,
+      "seedThemes": [
+        "Gravitation",
+        "Universal law of gravitation and free fall"
+      ],
+      "suggestedCount": 15
+    },
+    "notesGeneratable": true,
+    "isArchived": false,
+    "generationDurationMs": 21746,
+    "createdAt": "2026-08-03T01:00:00.000Z",
+    "updatedAt": "2026-08-03T01:00:00.000Z"
+  },
+  {
+    "_id": "dddddddddddddddddddddddd",
+    "providerId": "222222222222222222222222",
+    "providerKind": "SCHOOL",
+    "createdByTeacherId": "cccccccccccccccccccccccc",
+    "board": "CBSE",
+    "subject": "Physics",
+    "grade": "Class 10",
+    "chapterName": "Chapter 3 \u2014 Work and Energy",
+    "topic": "Work and Energy",
+    "definition": "Work and Energy is a core concept in Physics \u2014 Work, kinetic energy, potential energy and conservation of energy.",
+    "objectives": [
+      {
+        "text": "Students will be able to define key terms related to work and energy.",
+        "bloomLevel": "Remember"
+      },
+      {
+        "text": "Students will be able to explain the underlying principles of work and energy.",
+        "bloomLevel": "Understand"
+      },
+      {
+        "text": "Students will be able to apply work and energy concepts to solve numerical problems.",
+        "bloomLevel": "Apply"
+      }
+    ],
+    "advantages": [
+      "Builds a strong conceptual foundation for later Physics chapters.",
+      "Connects theory to everyday observable examples."
+    ],
+    "disadvantages": [
+      "Can feel abstract without hands-on demonstration."
+    ],
+    "realWorldApplications": [
+      "Used in engineering and design contexts related to work and energy.",
+      "Appears in common technology and everyday devices."
+    ],
+    "difficultyLevel": "Hard",
+    "estimatedDurationMinutes": 40,
+    "priorKnowledgeRequired": [
+      "Basic arithmetic and unit conversion."
+    ],
+    "commonMisconceptions": [
+      "Students often confuse related terms within work and energy."
+    ],
+    "suggestedAnalogies": [
+      "Compare work and energy to a familiar daily-life scenario for easier recall."
+    ],
+    "keyVocabulary": [
+      {
+        "term": "Work and Energy term 1",
+        "definition": "Definition of key term 1 related to work and energy."
+      },
+      {
+        "term": "Work and Energy term 2",
+        "definition": "Definition of key term 2 related to work and energy."
+      },
+      {
+        "term": "Work and Energy term 3",
+        "definition": "Definition of key term 3 related to work and energy."
+      }
+    ],
+    "timeBlockPlan": [
+      {
+        "duration": 7,
+        "activity": "Warm-up question to activate prior knowledge",
+        "type": "hook"
+      },
+      {
+        "duration": 10,
+        "activity": "Direct instruction on work and energy",
+        "type": "concept"
+      },
+      {
+        "duration": 11,
+        "activity": "Guided practice / group activity",
+        "type": "activity"
+      },
+      {
+        "duration": 8,
+        "activity": "Quick formative check",
+        "type": "assessment"
+      },
+      {
+        "duration": 4,
+        "activity": "Recap and preview of next class",
+        "type": "wrap_up"
+      }
+    ],
+    "teachingStrategies": [
+      "Collaborative",
+      "Socratic Method",
+      "Think-Pair-Share"
+    ],
+    "differentiationNotes": {
+      "slowLearners": "Provide a simplified worksheet with worked examples.",
+      "advancedLearners": "Offer an extension problem connecting to a real-world case study."
+    },
+    "boardWorkOutline": [
+      "Title: Work and Energy",
+      "Key formula / definition box",
+      "Labelled diagram"
+    ],
+    "exitTicketQuestions": [
+      "In one sentence, explain work and energy in your own words."
+    ],
+    "formativeAssessmentPrompts": [
+      "Ask two students to summarise work and energy to the class."
+    ],
+    "hotsQuestions": [
+      "Why does work and energy matter outside the classroom?",
+      "How would you test your understanding of work and energy practically?",
+      "What would change if one variable in work and energy were altered?"
+    ],
+    "crossSubjectConnections": [
+      "Links to Mathematics through related numerical calculations."
+    ],
+    "previousChapterDependencies": [
+      "Builds on foundational concepts introduced in the previous chapter."
+    ],
+    "nextChapterPreparation": [
+      "Sets up vocabulary and concepts needed for the next chapter."
+    ],
+    "simulation": {
+      "feasible": true,
+      "exposedVariables": [
+        "variable1",
+        "variable2"
+      ],
+      "expectedOutcome": "Students see the relationship change interactively.",
+      "suggestedTool": "Interactive slider-based simulation"
+    },
+    "mcq": {
+      "feasible": true,
+      "seedThemes": [
+        "Work and Energy",
+        "Work"
+      ],
+      "suggestedCount": 15
+    },
+    "notesGeneratable": true,
+    "isArchived": false,
+    "generationDurationMs": 15055,
+    "createdAt": "2026-08-05T14:00:00.000Z",
+    "updatedAt": "2026-08-05T14:00:00.000Z"
+  },
+  {
+    "_id": "eeeeeeeeeeeeeeeeeeeeee01",
+    "providerId": "222222222222222222222222",
+    "providerKind": "SCHOOL",
+    "createdByTeacherId": "cccccccccccccccccccccccc",
+    "board": "ICSE",
+    "subject": "Chemistry",
+    "grade": "Class 11",
+    "chapterName": "Chapter 4 \u2014 Chemical Reactions",
+    "topic": "Chemical Reactions",
+    "definition": "Chemical Reactions is a core concept in Chemistry \u2014 Types of chemical reactions and balancing equations.",
+    "objectives": [
+      {
+        "text": "Students will be able to define key terms related to chemical reactions.",
+        "bloomLevel": "Remember"
+      },
+      {
+        "text": "Students will be able to explain the underlying principles of chemical reactions.",
+        "bloomLevel": "Understand"
+      },
+      {
+        "text": "Students will be able to apply chemical reactions concepts to solve numerical problems.",
+        "bloomLevel": "Apply"
+      }
+    ],
+    "advantages": [
+      "Builds a strong conceptual foundation for later Chemistry chapters.",
+      "Connects theory to everyday observable examples."
+    ],
+    "disadvantages": [
+      "Can feel abstract without hands-on demonstration."
+    ],
+    "realWorldApplications": [
+      "Used in engineering and design contexts related to chemical reactions.",
+      "Appears in common technology and everyday devices."
+    ],
+    "difficultyLevel": "Easy",
+    "estimatedDurationMinutes": 45,
+    "priorKnowledgeRequired": [
+      "Basic arithmetic and unit conversion."
+    ],
+    "commonMisconceptions": [
+      "Students often confuse related terms within chemical reactions."
+    ],
+    "suggestedAnalogies": [
+      "Compare chemical reactions to a familiar daily-life scenario for easier recall."
+    ],
+    "keyVocabulary": [
+      {
+        "term": "Chemical Reactions term 1",
+        "definition": "Definition of key term 1 related to chemical reactions."
+      },
+      {
+        "term": "Chemical Reactions term 2",
+        "definition": "Definition of key term 2 related to chemical reactions."
+      },
+      {
+        "term": "Chemical Reactions term 3",
+        "definition": "Definition of key term 3 related to chemical reactions."
+      }
+    ],
+    "timeBlockPlan": [
+      {
+        "duration": 5,
+        "activity": "Warm-up question to activate prior knowledge",
+        "type": "hook"
+      },
+      {
+        "duration": 13,
+        "activity": "Direct instruction on chemical reactions",
+        "type": "concept"
+      },
+      {
+        "duration": 10,
+        "activity": "Guided practice / group activity",
+        "type": "activity"
+      },
+      {
+        "duration": 7,
+        "activity": "Quick formative check",
+        "type": "assessment"
+      },
+      {
+        "duration": 10,
+        "activity": "Recap and preview of next class",
+        "type": "wrap_up"
+      }
+    ],
+    "teachingStrategies": [
+      "Collaborative",
+      "Inquiry-Based",
+      "Socratic Method"
+    ],
+    "differentiationNotes": {
+      "slowLearners": "Provide a simplified worksheet with worked examples.",
+      "advancedLearners": "Offer an extension problem connecting to a real-world case study."
+    },
+    "boardWorkOutline": [
+      "Title: Chemical Reactions",
+      "Key formula / definition box",
+      "Labelled diagram"
+    ],
+    "exitTicketQuestions": [
+      "In one sentence, explain chemical reactions in your own words."
+    ],
+    "formativeAssessmentPrompts": [
+      "Ask two students to summarise chemical reactions to the class."
+    ],
+    "hotsQuestions": [
+      "Why does chemical reactions matter outside the classroom?",
+      "How would you test your understanding of chemical reactions practically?",
+      "What would change if one variable in chemical reactions were altered?"
+    ],
+    "crossSubjectConnections": [
+      "Links to Mathematics through related numerical calculations."
+    ],
+    "previousChapterDependencies": [
+      "Builds on foundational concepts introduced in the previous chapter."
+    ],
+    "nextChapterPreparation": [
+      "Sets up vocabulary and concepts needed for the next chapter."
+    ],
+    "simulation": {
+      "feasible": false
+    },
+    "mcq": {
+      "feasible": true,
+      "seedThemes": [
+        "Chemical Reactions",
+        "Types of chemical reactions and balancing equations"
+      ],
+      "suggestedCount": 15
+    },
+    "notesGeneratable": true,
+    "handsOnActivity": "Simple classroom demonstration illustrating chemical reactions.",
+    "isArchived": false,
+    "generationDurationMs": 9423,
+    "createdAt": "2026-08-07T03:00:00.000Z",
+    "updatedAt": "2026-08-07T03:00:00.000Z"
+  },
+  {
+    "_id": "777777777777777777777777",
+    "providerId": "222222222222222222222222",
+    "providerKind": "SCHOOL",
+    "createdByTeacherId": "cccccccccccccccccccccccc",
+    "board": "SEBA",
+    "subject": "Biology",
+    "grade": "Class 12",
+    "chapterName": "Chapter 5 \u2014 Cell Structure",
+    "topic": "Cell Structure",
+    "definition": "Cell Structure is a core concept in Biology \u2014 Plant and animal cell structure and organelle functions.",
+    "objectives": [
+      {
+        "text": "Students will be able to define key terms related to cell structure.",
+        "bloomLevel": "Remember"
+      },
+      {
+        "text": "Students will be able to explain the underlying principles of cell structure.",
+        "bloomLevel": "Understand"
+      },
+      {
+        "text": "Students will be able to apply cell structure concepts to solve numerical problems.",
+        "bloomLevel": "Apply"
+      }
+    ],
+    "advantages": [
+      "Builds a strong conceptual foundation for later Biology chapters.",
+      "Connects theory to everyday observable examples."
+    ],
+    "disadvantages": [
+      "Can feel abstract without hands-on demonstration."
+    ],
+    "realWorldApplications": [
+      "Used in engineering and design contexts related to cell structure.",
+      "Appears in common technology and everyday devices."
+    ],
+    "difficultyLevel": "Medium",
+    "estimatedDurationMinutes": 60,
+    "priorKnowledgeRequired": [
+      "Basic arithmetic and unit conversion."
+    ],
+    "commonMisconceptions": [
+      "Students often confuse related terms within cell structure."
+    ],
+    "suggestedAnalogies": [
+      "Compare cell structure to a familiar daily-life scenario for easier recall."
+    ],
+    "keyVocabulary": [
+      {
+        "term": "Cell Structure term 1",
+        "definition": "Definition of key term 1 related to cell structure."
+      },
+      {
+        "term": "Cell Structure term 2",
+        "definition": "Definition of key term 2 related to cell structure."
+      },
+      {
+        "term": "Cell Structure term 3",
+        "definition": "Definition of key term 3 related to cell structure."
+      }
+    ],
+    "timeBlockPlan": [
+      {
+        "duration": 5,
+        "activity": "Warm-up question to activate prior knowledge",
+        "type": "hook"
+      },
+      {
+        "duration": 13,
+        "activity": "Direct instruction on cell structure",
+        "type": "concept"
+      },
+      {
+        "duration": 10,
+        "activity": "Guided practice / group activity",
+        "type": "activity"
+      },
+      {
+        "duration": 7,
+        "activity": "Quick formative check",
+        "type": "assessment"
+      },
+      {
+        "duration": 25,
+        "activity": "Recap and preview of next class",
+        "type": "wrap_up"
+      }
+    ],
+    "teachingStrategies": [
+      "Collaborative",
+      "Inquiry-Based",
+      "Think-Pair-Share"
+    ],
+    "differentiationNotes": {
+      "slowLearners": "Provide a simplified worksheet with worked examples.",
+      "advancedLearners": "Offer an extension problem connecting to a real-world case study."
+    },
+    "boardWorkOutline": [
+      "Title: Cell Structure",
+      "Key formula / definition box",
+      "Labelled diagram"
+    ],
+    "exitTicketQuestions": [
+      "In one sentence, explain cell structure in your own words."
+    ],
+    "formativeAssessmentPrompts": [
+      "Ask two students to summarise cell structure to the class."
+    ],
+    "hotsQuestions": [
+      "Why does cell structure matter outside the classroom?",
+      "How would you test your understanding of cell structure practically?",
+      "What would change if one variable in cell structure were altered?"
+    ],
+    "crossSubjectConnections": [
+      "Links to Mathematics through related numerical calculations."
+    ],
+    "previousChapterDependencies": [
+      "Builds on foundational concepts introduced in the previous chapter."
+    ],
+    "nextChapterPreparation": [
+      "Sets up vocabulary and concepts needed for the next chapter."
+    ],
+    "simulation": {
+      "feasible": true,
+      "exposedVariables": [
+        "variable1",
+        "variable2"
+      ],
+      "expectedOutcome": "Students see the relationship change interactively.",
+      "suggestedTool": "Interactive slider-based simulation"
+    },
+    "mcq": {
+      "feasible": true,
+      "seedThemes": [
+        "Cell Structure",
+        "Plant and animal cell structure and organelle functions"
+      ],
+      "suggestedCount": 15
+    },
+    "notesGeneratable": true,
+    "isArchived": false,
+    "generationDurationMs": 10279,
+    "createdAt": "2026-08-09T17:00:00.000Z",
+    "updatedAt": "2026-08-09T17:00:00.000Z"
+  },
+  {
+    "_id": "aaaaaaaaaaaaaaaaaaaaaaaa",
+    "providerId": "222222222222222222222222",
+    "providerKind": "SCHOOL",
+    "createdByTeacherId": "cccccccccccccccccccccccc",
+    "board": "NCERT",
+    "subject": "Computer Science",
+    "grade": "Class 8",
+    "chapterName": "Chapter 6 \u2014 Algebraic Expressions",
+    "topic": "Algebraic Expressions",
+    "definition": "Algebraic Expressions is a core concept in Computer Science \u2014 Simplifying and factorising algebraic expressions.",
+    "objectives": [
+      {
+        "text": "Students will be able to define key terms related to algebraic expressions.",
+        "bloomLevel": "Remember"
+      },
+      {
+        "text": "Students will be able to explain the underlying principles of algebraic expressions.",
+        "bloomLevel": "Understand"
+      },
+      {
+        "text": "Students will be able to apply algebraic expressions concepts to solve numerical problems.",
+        "bloomLevel": "Apply"
+      }
+    ],
+    "advantages": [
+      "Builds a strong conceptual foundation for later Computer Science chapters.",
+      "Connects theory to everyday observable examples."
+    ],
+    "disadvantages": [
+      "Can feel abstract without hands-on demonstration."
+    ],
+    "realWorldApplications": [
+      "Used in engineering and design contexts related to algebraic expressions.",
+      "Appears in common technology and everyday devices."
+    ],
+    "difficultyLevel": "Hard",
+    "estimatedDurationMinutes": 30,
+    "priorKnowledgeRequired": [
+      "Basic arithmetic and unit conversion."
+    ],
+    "commonMisconceptions": [
+      "Students often confuse related terms within algebraic expressions."
+    ],
+    "suggestedAnalogies": [
+      "Compare algebraic expressions to a familiar daily-life scenario for easier recall."
+    ],
+    "keyVocabulary": [
+      {
+        "term": "Algebraic Expressions term 1",
+        "definition": "Definition of key term 1 related to algebraic expressions."
+      },
+      {
+        "term": "Algebraic Expressions term 2",
+        "definition": "Definition of key term 2 related to algebraic expressions."
+      },
+      {
+        "term": "Algebraic Expressions term 3",
+        "definition": "Definition of key term 3 related to algebraic expressions."
+      }
+    ],
+    "timeBlockPlan": [
+      {
+        "duration": 7,
+        "activity": "Warm-up question to activate prior knowledge",
+        "type": "hook"
+      },
+      {
+        "duration": 10,
+        "activity": "Direct instruction on algebraic expressions",
+        "type": "concept"
+      },
+      {
+        "duration": 11,
+        "activity": "Guided practice / group activity",
+        "type": "activity"
+      },
+      {
+        "duration": 5,
+        "activity": "Quick formative check",
+        "type": "assessment"
+      },
+      {
+        "duration": 2,
+        "activity": "Recap and preview of next class",
+        "type": "wrap_up"
+      }
+    ],
+    "teachingStrategies": [
+      "Flipped Classroom",
+      "Socratic Method",
+      "Demonstration"
+    ],
+    "differentiationNotes": {
+      "slowLearners": "Provide a simplified worksheet with worked examples.",
+      "advancedLearners": "Offer an extension problem connecting to a real-world case study."
+    },
+    "boardWorkOutline": [
+      "Title: Algebraic Expressions",
+      "Key formula / definition box",
+      "Labelled diagram"
+    ],
+    "exitTicketQuestions": [
+      "In one sentence, explain algebraic expressions in your own words."
+    ],
+    "formativeAssessmentPrompts": [
+      "Ask two students to summarise algebraic expressions to the class."
+    ],
+    "hotsQuestions": [
+      "Why does algebraic expressions matter outside the classroom?",
+      "How would you test your understanding of algebraic expressions practically?",
+      "What would change if one variable in algebraic expressions were altered?"
+    ],
+    "crossSubjectConnections": [
+      "Links to Mathematics through related numerical calculations."
+    ],
+    "previousChapterDependencies": [
+      "Builds on foundational concepts introduced in the previous chapter."
+    ],
+    "nextChapterPreparation": [
+      "Sets up vocabulary and concepts needed for the next chapter."
+    ],
+    "simulation": {
+      "feasible": true,
+      "exposedVariables": [
+        "variable1",
+        "variable2"
+      ],
+      "expectedOutcome": "Students see the relationship change interactively.",
+      "suggestedTool": "Interactive slider-based simulation"
+    },
+    "mcq": {
+      "feasible": true,
+      "seedThemes": [
+        "Algebraic Expressions",
+        "Simplifying and factorising algebraic expressions"
+      ],
+      "suggestedCount": 15
+    },
+    "notesGeneratable": true,
+    "isArchived": false,
+    "generationDurationMs": 19954,
+    "createdAt": "2026-08-11T07:00:00.000Z",
+    "updatedAt": "2026-08-11T07:00:00.000Z"
+  },
+  {
+    "_id": "777777777777777777777701",
+    "providerId": "222222222222222222222222",
+    "providerKind": "SCHOOL",
+    "createdByTeacherId": "cccccccccccccccccccccccc",
+    "board": "CBSE",
+    "subject": "AI",
+    "grade": "Class 9",
+    "chapterName": "Chapter 7 \u2014 Trigonometry Basics",
+    "topic": "Trigonometry Basics",
+    "definition": "Trigonometry Basics is a core concept in AI \u2014 Sine, cosine, tangent and right-triangle ratios.",
+    "objectives": [
+      {
+        "text": "Students will be able to define key terms related to trigonometry basics.",
+        "bloomLevel": "Remember"
+      },
+      {
+        "text": "Students will be able to explain the underlying principles of trigonometry basics.",
+        "bloomLevel": "Understand"
+      },
+      {
+        "text": "Students will be able to apply trigonometry basics concepts to solve numerical problems.",
+        "bloomLevel": "Apply"
+      }
+    ],
+    "advantages": [
+      "Builds a strong conceptual foundation for later AI chapters.",
+      "Connects theory to everyday observable examples."
+    ],
+    "disadvantages": [
+      "Can feel abstract without hands-on demonstration."
+    ],
+    "realWorldApplications": [
+      "Used in engineering and design contexts related to trigonometry basics.",
+      "Appears in common technology and everyday devices."
+    ],
+    "difficultyLevel": "Easy",
+    "estimatedDurationMinutes": 40,
+    "priorKnowledgeRequired": [
+      "Basic arithmetic and unit conversion."
+    ],
+    "commonMisconceptions": [
+      "Students often confuse related terms within trigonometry basics."
+    ],
+    "suggestedAnalogies": [
+      "Compare trigonometry basics to a familiar daily-life scenario for easier recall."
+    ],
+    "keyVocabulary": [
+      {
+        "term": "Trigonometry Basics term 1",
+        "definition": "Definition of key term 1 related to trigonometry basics."
+      },
+      {
+        "term": "Trigonometry Basics term 2",
+        "definition": "Definition of key term 2 related to trigonometry basics."
+      },
+      {
+        "term": "Trigonometry Basics term 3",
+        "definition": "Definition of key term 3 related to trigonometry basics."
+      }
+    ],
+    "timeBlockPlan": [
+      {
+        "duration": 7,
+        "activity": "Warm-up question to activate prior knowledge",
+        "type": "hook"
+      },
+      {
+        "duration": 11,
+        "activity": "Direct instruction on trigonometry basics",
+        "type": "concept"
+      },
+      {
+        "duration": 15,
+        "activity": "Guided practice / group activity",
+        "type": "activity"
+      },
+      {
+        "duration": 7,
+        "activity": "Quick formative check",
+        "type": "assessment"
+      },
+      {
+        "duration": 2,
+        "activity": "Recap and preview of next class",
+        "type": "wrap_up"
+      }
+    ],
+    "teachingStrategies": [
+      "Think-Pair-Share",
+      "Inquiry-Based",
+      "Collaborative"
+    ],
+    "differentiationNotes": {
+      "slowLearners": "Provide a simplified worksheet with worked examples.",
+      "advancedLearners": "Offer an extension problem connecting to a real-world case study."
+    },
+    "boardWorkOutline": [
+      "Title: Trigonometry Basics",
+      "Key formula / definition box",
+      "Labelled diagram"
+    ],
+    "exitTicketQuestions": [
+      "In one sentence, explain trigonometry basics in your own words."
+    ],
+    "formativeAssessmentPrompts": [
+      "Ask two students to summarise trigonometry basics to the class."
+    ],
+    "hotsQuestions": [
+      "Why does trigonometry basics matter outside the classroom?",
+      "How would you test your understanding of trigonometry basics practically?",
+      "What would change if one variable in trigonometry basics were altered?"
+    ],
+    "crossSubjectConnections": [
+      "Links to Mathematics through related numerical calculations."
+    ],
+    "previousChapterDependencies": [
+      "Builds on foundational concepts introduced in the previous chapter."
+    ],
+    "nextChapterPreparation": [
+      "Sets up vocabulary and concepts needed for the next chapter."
+    ],
+    "simulation": {
+      "feasible": false
+    },
+    "mcq": {
+      "feasible": true,
+      "seedThemes": [
+        "Trigonometry Basics",
+        "Sine"
+      ],
+      "suggestedCount": 15
+    },
+    "notesGeneratable": true,
+    "handsOnActivity": "Simple classroom demonstration illustrating trigonometry basics.",
+    "isArchived": false,
+    "generationDurationMs": 13607,
+    "createdAt": "2026-08-13T11:00:00.000Z",
+    "updatedAt": "2026-08-13T11:00:00.000Z"
+  },
+  {
+    "_id": "aaaaaaaaaaaaaaaaaaaaaa01",
+    "providerId": "222222222222222222222222",
+    "providerKind": "SCHOOL",
+    "createdByTeacherId": "cccccccccccccccccccccccc",
+    "board": "ICSE",
+    "subject": "Science",
+    "grade": "Class 10",
+    "chapterName": "Chapter 8 \u2014 Data Types in Programming",
+    "topic": "Data Types in Programming",
+    "definition": "Data Types in Programming is a core concept in Science \u2014 Primitive data types, variables and type conversion.",
+    "objectives": [
+      {
+        "text": "Students will be able to define key terms related to data types in programming.",
+        "bloomLevel": "Remember"
+      },
+      {
+        "text": "Students will be able to explain the underlying principles of data types in programming.",
+        "bloomLevel": "Understand"
+      },
+      {
+        "text": "Students will be able to apply data types in programming concepts to solve numerical problems.",
+        "bloomLevel": "Apply"
+      }
+    ],
+    "advantages": [
+      "Builds a strong conceptual foundation for later Science chapters.",
+      "Connects theory to everyday observable examples."
+    ],
+    "disadvantages": [
+      "Can feel abstract without hands-on demonstration."
+    ],
+    "realWorldApplications": [
+      "Used in engineering and design contexts related to data types in programming.",
+      "Appears in common technology and everyday devices."
+    ],
+    "difficultyLevel": "Medium",
+    "estimatedDurationMinutes": 40,
+    "priorKnowledgeRequired": [
+      "Basic arithmetic and unit conversion."
+    ],
+    "commonMisconceptions": [
+      "Students often confuse related terms within data types in programming."
+    ],
+    "suggestedAnalogies": [
+      "Compare data types in programming to a familiar daily-life scenario for easier recall."
+    ],
+    "keyVocabulary": [
+      {
+        "term": "Data Types in Programming term 1",
+        "definition": "Definition of key term 1 related to data types in programming."
+      },
+      {
+        "term": "Data Types in Programming term 2",
+        "definition": "Definition of key term 2 related to data types in programming."
+      },
+      {
+        "term": "Data Types in Programming term 3",
+        "definition": "Definition of key term 3 related to data types in programming."
+      }
+    ],
+    "timeBlockPlan": [
+      {
+        "duration": 8,
+        "activity": "Warm-up question to activate prior knowledge",
+        "type": "hook"
+      },
+      {
+        "duration": 13,
+        "activity": "Direct instruction on data types in programming",
+        "type": "concept"
+      },
+      {
+        "duration": 12,
+        "activity": "Guided practice / group activity",
+        "type": "activity"
+      },
+      {
+        "duration": 6,
+        "activity": "Quick formative check",
+        "type": "assessment"
+      },
+      {
+        "duration": 2,
+        "activity": "Recap and preview of next class",
+        "type": "wrap_up"
+      }
+    ],
+    "teachingStrategies": [
+      "Collaborative",
+      "Flipped Classroom",
+      "Lecture"
+    ],
+    "differentiationNotes": {
+      "slowLearners": "Provide a simplified worksheet with worked examples.",
+      "advancedLearners": "Offer an extension problem connecting to a real-world case study."
+    },
+    "boardWorkOutline": [
+      "Title: Data Types in Programming",
+      "Key formula / definition box",
+      "Labelled diagram"
+    ],
+    "exitTicketQuestions": [
+      "In one sentence, explain data types in programming in your own words."
+    ],
+    "formativeAssessmentPrompts": [
+      "Ask two students to summarise data types in programming to the class."
+    ],
+    "hotsQuestions": [
+      "Why does data types in programming matter outside the classroom?",
+      "How would you test your understanding of data types in programming practically?",
+      "What would change if one variable in data types in programming were altered?"
+    ],
+    "crossSubjectConnections": [
+      "Links to Mathematics through related numerical calculations."
+    ],
+    "previousChapterDependencies": [
+      "Builds on foundational concepts introduced in the previous chapter."
+    ],
+    "nextChapterPreparation": [
+      "Sets up vocabulary and concepts needed for the next chapter."
+    ],
+    "simulation": {
+      "feasible": true,
+      "exposedVariables": [
+        "variable1",
+        "variable2"
+      ],
+      "expectedOutcome": "Students see the relationship change interactively.",
+      "suggestedTool": "Interactive slider-based simulation"
+    },
+    "mcq": {
+      "feasible": true,
+      "seedThemes": [
+        "Data Types in Programming",
+        "Primitive data types"
+      ],
+      "suggestedCount": 15
+    },
+    "notesGeneratable": true,
+    "isArchived": false,
+    "generationDurationMs": 15505,
+    "createdAt": "2026-08-15T05:00:00.000Z",
+    "updatedAt": "2026-08-15T05:00:00.000Z"
+  },
+  {
+    "_id": "777777777777777777777702",
+    "providerId": "222222222222222222222222",
+    "providerKind": "SCHOOL",
+    "createdByTeacherId": "cccccccccccccccccccccccc",
+    "board": "SEBA",
+    "subject": "Mathematics",
+    "grade": "Class 11",
+    "chapterName": "Chapter 9 \u2014 Photosynthesis",
+    "topic": "Photosynthesis",
+    "definition": "Photosynthesis is a core concept in Mathematics \u2014 Light and dark reactions, factors affecting the rate.",
+    "objectives": [
+      {
+        "text": "Students will be able to define key terms related to photosynthesis.",
+        "bloomLevel": "Remember"
+      },
+      {
+        "text": "Students will be able to explain the underlying principles of photosynthesis.",
+        "bloomLevel": "Understand"
+      },
+      {
+        "text": "Students will be able to apply photosynthesis concepts to solve numerical problems.",
+        "bloomLevel": "Apply"
+      }
+    ],
+    "advantages": [
+      "Builds a strong conceptual foundation for later Mathematics chapters.",
+      "Connects theory to everyday observable examples."
+    ],
+    "disadvantages": [
+      "Can feel abstract without hands-on demonstration."
+    ],
+    "realWorldApplications": [
+      "Used in engineering and design contexts related to photosynthesis.",
+      "Appears in common technology and everyday devices."
+    ],
+    "difficultyLevel": "Hard",
+    "estimatedDurationMinutes": 30,
+    "priorKnowledgeRequired": [
+      "Basic arithmetic and unit conversion."
+    ],
+    "commonMisconceptions": [
+      "Students often confuse related terms within photosynthesis."
+    ],
+    "suggestedAnalogies": [
+      "Compare photosynthesis to a familiar daily-life scenario for easier recall."
+    ],
+    "keyVocabulary": [
+      {
+        "term": "Photosynthesis term 1",
+        "definition": "Definition of key term 1 related to photosynthesis."
+      },
+      {
+        "term": "Photosynthesis term 2",
+        "definition": "Definition of key term 2 related to photosynthesis."
+      },
+      {
+        "term": "Photosynthesis term 3",
+        "definition": "Definition of key term 3 related to photosynthesis."
+      }
+    ],
+    "timeBlockPlan": [
+      {
+        "duration": 8,
+        "activity": "Warm-up question to activate prior knowledge",
+        "type": "hook"
+      },
+      {
+        "duration": 12,
+        "activity": "Direct instruction on photosynthesis",
+        "type": "concept"
+      },
+      {
+        "duration": 10,
+        "activity": "Guided practice / group activity",
+        "type": "activity"
+      },
+      {
+        "duration": 6,
+        "activity": "Quick formative check",
+        "type": "assessment"
+      },
+      {
+        "duration": 2,
+        "activity": "Recap and preview of next class",
+        "type": "wrap_up"
+      }
+    ],
+    "teachingStrategies": [
+      "Collaborative",
+      "Think-Pair-Share",
+      "Problem-Based"
+    ],
+    "differentiationNotes": {
+      "slowLearners": "Provide a simplified worksheet with worked examples.",
+      "advancedLearners": "Offer an extension problem connecting to a real-world case study."
+    },
+    "boardWorkOutline": [
+      "Title: Photosynthesis",
+      "Key formula / definition box",
+      "Labelled diagram"
+    ],
+    "exitTicketQuestions": [
+      "In one sentence, explain photosynthesis in your own words."
+    ],
+    "formativeAssessmentPrompts": [
+      "Ask two students to summarise photosynthesis to the class."
+    ],
+    "hotsQuestions": [
+      "Why does photosynthesis matter outside the classroom?",
+      "How would you test your understanding of photosynthesis practically?",
+      "What would change if one variable in photosynthesis were altered?"
+    ],
+    "crossSubjectConnections": [
+      "Links to Mathematics through related numerical calculations."
+    ],
+    "previousChapterDependencies": [
+      "Builds on foundational concepts introduced in the previous chapter."
+    ],
+    "nextChapterPreparation": [
+      "Sets up vocabulary and concepts needed for the next chapter."
+    ],
+    "simulation": {
+      "feasible": true,
+      "exposedVariables": [
+        "variable1",
+        "variable2"
+      ],
+      "expectedOutcome": "Students see the relationship change interactively.",
+      "suggestedTool": "Interactive slider-based simulation"
+    },
+    "mcq": {
+      "feasible": true,
+      "seedThemes": [
+        "Photosynthesis",
+        "Light and dark reactions"
+      ],
+      "suggestedCount": 15
+    },
+    "notesGeneratable": true,
+    "isArchived": false,
+    "generationDurationMs": 24358,
+    "createdAt": "2026-08-17T10:00:00.000Z",
+    "updatedAt": "2026-08-17T10:00:00.000Z"
+  },
+  {
+    "_id": "ffffffffffffffffffffffff",
+    "providerId": "222222222222222222222222",
+    "providerKind": "SCHOOL",
+    "createdByTeacherId": "cccccccccccccccccccccccc",
+    "board": "NCERT",
+    "subject": "Physics",
+    "grade": "Class 12",
+    "chapterName": "Chapter 10 \u2014 Electricity and Circuits",
+    "topic": "Electricity and Circuits",
+    "definition": "Electricity and Circuits is a core concept in Physics \u2014 Ohm's law, series and parallel circuits.",
+    "objectives": [
+      {
+        "text": "Students will be able to define key terms related to electricity and circuits.",
+        "bloomLevel": "Remember"
+      },
+      {
+        "text": "Students will be able to explain the underlying principles of electricity and circuits.",
+        "bloomLevel": "Understand"
+      },
+      {
+        "text": "Students will be able to apply electricity and circuits concepts to solve numerical problems.",
+        "bloomLevel": "Apply"
+      }
+    ],
+    "advantages": [
+      "Builds a strong conceptual foundation for later Physics chapters.",
+      "Connects theory to everyday observable examples."
+    ],
+    "disadvantages": [
+      "Can feel abstract without hands-on demonstration."
+    ],
+    "realWorldApplications": [
+      "Used in engineering and design contexts related to electricity and circuits.",
+      "Appears in common technology and everyday devices."
+    ],
+    "difficultyLevel": "Easy",
+    "estimatedDurationMinutes": 60,
+    "priorKnowledgeRequired": [
+      "Basic arithmetic and unit conversion."
+    ],
+    "commonMisconceptions": [
+      "Students often confuse related terms within electricity and circuits."
+    ],
+    "suggestedAnalogies": [
+      "Compare electricity and circuits to a familiar daily-life scenario for easier recall."
+    ],
+    "keyVocabulary": [
+      {
+        "term": "Electricity and Circuits term 1",
+        "definition": "Definition of key term 1 related to electricity and circuits."
+      },
+      {
+        "term": "Electricity and Circuits term 2",
+        "definition": "Definition of key term 2 related to electricity and circuits."
+      },
+      {
+        "term": "Electricity and Circuits term 3",
+        "definition": "Definition of key term 3 related to electricity and circuits."
+      }
+    ],
+    "timeBlockPlan": [
+      {
+        "duration": 8,
+        "activity": "Warm-up question to activate prior knowledge",
+        "type": "hook"
+      },
+      {
+        "duration": 11,
+        "activity": "Direct instruction on electricity and circuits",
+        "type": "concept"
+      },
+      {
+        "duration": 12,
+        "activity": "Guided practice / group activity",
+        "type": "activity"
+      },
+      {
+        "duration": 6,
+        "activity": "Quick formative check",
+        "type": "assessment"
+      },
+      {
+        "duration": 23,
+        "activity": "Recap and preview of next class",
+        "type": "wrap_up"
+      }
+    ],
+    "teachingStrategies": [
+      "Demonstration",
+      "Collaborative",
+      "Inquiry-Based"
+    ],
+    "differentiationNotes": {
+      "slowLearners": "Provide a simplified worksheet with worked examples.",
+      "advancedLearners": "Offer an extension problem connecting to a real-world case study."
+    },
+    "boardWorkOutline": [
+      "Title: Electricity and Circuits",
+      "Key formula / definition box",
+      "Labelled diagram"
+    ],
+    "exitTicketQuestions": [
+      "In one sentence, explain electricity and circuits in your own words."
+    ],
+    "formativeAssessmentPrompts": [
+      "Ask two students to summarise electricity and circuits to the class."
+    ],
+    "hotsQuestions": [
+      "Why does electricity and circuits matter outside the classroom?",
+      "How would you test your understanding of electricity and circuits practically?",
+      "What would change if one variable in electricity and circuits were altered?"
+    ],
+    "crossSubjectConnections": [
+      "Links to Mathematics through related numerical calculations."
+    ],
+    "previousChapterDependencies": [
+      "Builds on foundational concepts introduced in the previous chapter."
+    ],
+    "nextChapterPreparation": [
+      "Sets up vocabulary and concepts needed for the next chapter."
+    ],
+    "simulation": {
+      "feasible": false
+    },
+    "mcq": {
+      "feasible": true,
+      "seedThemes": [
+        "Electricity and Circuits",
+        "Ohm's law"
+      ],
+      "suggestedCount": 15
+    },
+    "notesGeneratable": true,
+    "handsOnActivity": "Simple classroom demonstration illustrating electricity and circuits.",
+    "isArchived": false,
+    "generationDurationMs": 16609,
+    "createdAt": "2026-08-19T20:00:00.000Z",
+    "updatedAt": "2026-08-19T20:00:00.000Z"
+  }
+]
